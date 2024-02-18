@@ -1,0 +1,43 @@
+/* body{
+    background-color: ;
+} */
+.van{
+    background-color: #bd7407e3;
+}
+
+
+/* mains.css */
+#navbarTogglerDemo03 .navbar-nav .nav-link{
+    color: #f5ebebee; 
+}
+
+#xer{
+    color: #f5ebebee; 
+}
+
+#fla{
+    width: 40%;
+}
+
+.presenter{
+    margin-top: 40px ;
+}
+
+.pitch{
+    margin-top: 35px;
+}
+.pitch span{
+    font-weight: bold;
+}
+#desc, #prod{
+    color: rgb(20, 173, 20);
+}
+.cont, .foot{
+    margin-top: 50px;
+}
+.foot{
+    background-color: #bd7407e3;
+}
+.foot span{
+    color:  rgb(17, 121, 17);
+}
